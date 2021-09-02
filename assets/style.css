@@ -1,6 +1,6 @@
 #main{
    text-align: center; 
-   background-color: hsl(0, 5%, 95%)
+   background-color: rgb(240, 194, 108);
 }
 ul{
     max-width: 550px;
@@ -19,12 +19,12 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
     font-size: 17px;
     
-   
-    color: #333;
+    background-color: rgb(240, 194, 108);
+    color: rgb(211, 13, 86)
    
 }
 #img-div{
-    background-color: white;
+    background-color: rgb(240, 194, 108);
     font-size: 15px;
     padding-bottom: 2px;
 
